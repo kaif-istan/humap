@@ -1,5 +1,5 @@
 # Humap
-<a href="https://hack36.com"><img src="http://bit.ly/BuiltAtHack36" height=20px></a>
+<!-- <a href="https://hack36.com"><img src="http://bit.ly/BuiltAtHack36" height=20px></a> -->
 ![Version](https://img.shields.io/badge/version-1.69-brightgreen.svg)
 ![Optimization](https://img.shields.io/badge/optimised-0%25-critical.svg)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-important.svg)
