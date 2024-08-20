@@ -1,24 +1,18 @@
 # Humap
-<!-- <a href="https://hack36.com"><img src="http://bit.ly/BuiltAtHack36" height=20px></a> -->
 ![Version](https://img.shields.io/badge/version-1.69-brightgreen.svg)
 ![Optimization](https://img.shields.io/badge/optimised-0%25-critical.svg)
 ![Built with Love](https://img.shields.io/badge/built%20with-love-important.svg)
 ![Designing](https://img.shields.io/badge/designed%20in-ms%20paint-blueviolet.svg)
 
-This project was developed by us, **Team ECMAniacs**, as a submission for [Hack36 4.0](https://www.hack36.com/)
-
-## Resources
-- [PPT](https://humap-app.herokuapp.com/get-ppt)
-- [Demo](https://humap-app.herokuapp.com/get-demo) (Open in Google Chrome)
-- [Demo but for those who don't like Chrome](https://github.com/DNA5769/humap/blob/main/public/Team%20ECMAniacs%20DEMO.mkv?raw=true)
+This project was developed by us, **Team ECMAniacs**
 
 ## Team ECMAniacs
-- [Aqib Suhail](https://github.com/geeqib23)
-- [Dennis Thomas](https://github.com/DNA5769)
+- [Md Kaif](https://github.com/kaif-istan)
+- [Abhishek](https://github.com/abhissshhh)
 
 ---
 
-[Humap](https://humap-app.herokuapp.com/) is a web app which aims to digitalize how societies interact within themselves by providing an easy interface to communicate which can result in creating better versions of themselves.
+Humap is a web app which aims to digitalize how societies interact within themselves by providing an easy interface to communicate which can result in creating better versions of themselves.
 
 ## Why We Built This
 Back in the days, society used to be tighly linked and knew everything about each other, they used to communicate very well with each other and this made societies
@@ -50,5 +44,5 @@ We allow the user to make posts along with a tag from his/her/their location and
 5. Implementing commenting on posts on a single page app was a great challenge, but using React with some DOM manipulation  came to the rescue.
 
 ## Additional Notes
-- Want to play around with the code and make changes to it yourself? Well **checkout** the `development` branch of this repo.
+- Want to play around with the code and make changes to it yourself? Go ahead and fork the project from the main branch of this repo.
 - Try changing browsers (to Mozilla Firefox) if some parts of the site are too big/small. So in other words, it's not that our website is not responsive........it's your browser's fault <3
